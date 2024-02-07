@@ -1,0 +1,9 @@
+{
+  "client_id": "",
+  "token": "",
+  "channel_id": "",
+  "role_id": "",
+  "guild_id": "",
+  "approve_message": "Parabens {USER}, você foi aprovado pela embaixada!  :airplane:",
+  "deny_message": "{USER}, infelizmente você não foi aprovado pela nossa embaixada  :cry:"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "embaixada-bot",
+  "version": "1.0.0",
+  "description": "embaixada discord bot",
+  "main": "bot.ts",
+  "scripts": {
+    "start": "npx tsx bot.ts"
+  },
+  "type": "module",
+  "author": "Kleber Fernando",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "tsx": "^4.7.0"
+  }
+}
