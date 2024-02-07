@@ -2,7 +2,7 @@
 
 ## Configuração:
 
-Basta modificar o arquivo `config.json` com as informações do server
+Basta modificar o arquivo `config.json` com as informações do server e iniciar o bot
 
 #### client_id - ID do bot
 #### token - Token de segurança do bot
@@ -13,6 +13,15 @@ Basta modificar o arquivo `config.json` com as informações do server
 Exemplo: "Parabens {USER}, você foi aprovado pela embaixada!  :airplane:"
 #### deny_message: Mensagem de reprovação, adicione {USER} para mencionar o usuário.
 Exemplo: "{USER}, infelizmente você não foi aprovado pela nossa embaixada  :cry:"
+
+### para iniciar o bot basta rodar:
+```bash
+npm run start
+```
+ou
+```bash
+yarn start
+```
 
 ## Comandos
 
