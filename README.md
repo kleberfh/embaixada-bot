@@ -32,6 +32,8 @@ yarn start
 /recusar ID_USUARIO -> Reprova o usuário enviando a mensagem de reprovação
 ```
 
+* OBS: Só pode usar os comandos quem possui permissão de atribuir e remover tags a outros usuários no discord
+
 ## Demo
 
 https://github.com/kleberfh/embaixada-bot/assets/27457478/fc3834af-9d05-4334-b5c7-37c9468d59b7
